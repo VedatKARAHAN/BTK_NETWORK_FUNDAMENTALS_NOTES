@@ -23,6 +23,4 @@
 |                                | **Dynamic Host Configuration Protocol (DHCP)** | Cihazlara otomatik IP adresi, Alt Ağ Maskesi ve Ağ Geçidi atayan protokol.                                                    |
 | **Ağ Yapısı (Topology)**       | **Network topology**                           | Ağdaki cihazların birbirine bağlanma düzeni (fiziksel veya mantıksal).                                                        |
 |                                | **Physical topology**                          | Cihazların ve kabloların **gerçek dünyadaki fiziksel yerleşimini** gösteren düzen.                                            |
-
-|
-| | **Logical topology** | Verilerin ağ üzerinde **nasıl aktığını** (hangi yol ile iletişim kurduğunu) gösteren düzen. |
+|                                | Logical topology                               | Verilerin ağ üzerinde **nasıl aktığını** (hangi yol ile iletişim kurduğunu) gösteren düzen.                                   |
